@@ -1,0 +1,3 @@
+Z:\项目\C\BypassUAC\x64\Release\BypassUAC_Dll_csharp.dll
+Z:\项目\C\BypassUAC\BypassUAC_Dll_csharp\obj\x64\Release\BypassUAC_Dll_csharp.csprojAssemblyReference.cache
+Z:\项目\C\BypassUAC\BypassUAC_Dll_csharp\obj\x64\Release\BypassUAC_Dll_csharp.dll

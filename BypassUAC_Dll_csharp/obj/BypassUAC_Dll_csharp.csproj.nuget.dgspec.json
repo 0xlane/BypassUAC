@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\项目\\C\\BypassUAC\\BypassUAC_Dll_csharp\\BypassUAC_Dll_csharp.csproj": {}
+  },
+  "projects": {
+    "Z:\\项目\\C\\BypassUAC\\BypassUAC_Dll_csharp\\BypassUAC_Dll_csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\项目\\C\\BypassUAC\\BypassUAC_Dll_csharp\\BypassUAC_Dll_csharp.csproj",
+        "projectName": "BypassUAC_Dll_csharp",
+        "projectPath": "Z:\\项目\\C\\BypassUAC\\BypassUAC_Dll_csharp\\BypassUAC_Dll_csharp.csproj",
+        "packagesPath": "C:\\Users\\techliu\\.nuget\\packages\\",
+        "outputPath": "Z:\\项目\\C\\BypassUAC\\BypassUAC_Dll_csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\techliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "dependencies": {
+            "DllExport": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.0": {
+      "DllExport/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win": {
+      "DllExport/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win-x64": {
+      "DllExport/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win-x86": {
+      "DllExport/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DllExport/1.7.0": {
+      "sha512": "FvLcJw8sc+TEr3T1XSTfQpporJ0MBNTVJEoLd79ScP1ORiXTz9TWG0M1nXX758oCaa5iYGz0A25L72PcDUtsHQ==",
+      "type": "package",
+      "path": "dllexport/1.7.0",
+      "hasTools": true,
+      "files": [
+        ".gitattributes",
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "3rd-party.txt",
+        "DllExport.bat",
+        "License.txt",
+        "Readme.md",
+        "build_info.txt",
+        "changelog.txt",
+        "dllexport.1.7.0.nupkg.sha512",
+        "dllexport.nuspec",
+        "hMSBuild.bat",
+        "lib/net20/_._",
+        "lib/netstandard1.1/_._",
+        "tools/Conari.dll",
+        "tools/Conari.xml",
+        "tools/Microsoft.Build.Framework.dll",
+        "tools/Microsoft.Build.Utilities.v4.0.dll",
+        "tools/Microsoft.Build.dll",
+        "tools/Mono.Cecil.dll",
+        "tools/Mono.Cecil.pdb",
+        "tools/MvsSln.dll",
+        "tools/MvsSln.pdb",
+        "tools/MvsSln.xml",
+        "tools/NSBin.dll",
+        "tools/NSBin.pdb",
+        "tools/PeViewer.exe",
+        "tools/PeViewer.pdb",
+        "tools/RGiesecke.DllExport.MSBuild.dll",
+        "tools/RGiesecke.DllExport.MSBuild.pdb",
+        "tools/RGiesecke.DllExport.dll",
+        "tools/RGiesecke.DllExport.pdb",
+        "tools/coreclr/.version.txt",
+        "tools/coreclr/LICENSE.TXT",
+        "tools/coreclr/PATENTS.TXT",
+        "tools/coreclr/README.md",
+        "tools/coreclr/changelog.txt",
+        "tools/coreclr/clrgc.dll",
+        "tools/coreclr/coreclr.dll",
+        "tools/coreclr/ilasm.exe",
+        "tools/coreclr/ildasm.exe",
+        "tools/coreclr/ildasmrc.dll",
+        "tools/coreclr/mscordaccore.dll",
+        "tools/coreclr/mscordbi.dll",
+        "tools/gnt.bat",
+        "tools/hMSBuild.bat",
+        "tools/init.ps1",
+        "tools/net.r_eg.DllExport.Wizard.dll",
+        "tools/net.r_eg.DllExport.Wizard.pdb",
+        "tools/net.r_eg.DllExport.Wizard.targets",
+        "tools/net.r_eg.DllExport.targets",
+        "tools/raw/lib/net20/DllExport.dll",
+        "tools/raw/lib/net20/DllExport.xml",
+        "tools/raw/lib/netstd/DllExport.dll",
+        "tools/raw/lib/netstd/DllExport.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.0": [
+      "DllExport >= 1.7.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\techliu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\项目\\C\\BypassUAC\\BypassUAC_Dll_csharp\\BypassUAC_Dll_csharp.csproj",
+      "projectName": "BypassUAC_Dll_csharp",
+      "projectPath": "Z:\\项目\\C\\BypassUAC\\BypassUAC_Dll_csharp\\BypassUAC_Dll_csharp.csproj",
+      "packagesPath": "C:\\Users\\techliu\\.nuget\\packages\\",
+      "outputPath": "Z:\\项目\\C\\BypassUAC\\BypassUAC_Dll_csharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\techliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net40"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net40": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net40": {
+        "dependencies": {
+          "DllExport": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

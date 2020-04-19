@@ -1,0 +1,9 @@
+﻿    正在创建库 Z:\项目\C\BypassUAC\x64\Release\BypassUAC_Dll.lib 和对象 Z:\项目\C\BypassUAC\x64\Release\BypassUAC_Dll.exp
+BypassUAC_Dll.exp : warning LNK4070: .EXP 中的 /OUT:BypassUAC.dll 指令与输出文件名“Z:\项目\C\BypassUAC\x64\Release\BypassUAC_Dll.dll”不同；忽略指令
+  正在生成代码
+  已完成代码的生成
+BypassUAC_Dll.exp : warning LNK4070: .EXP 中的 /OUT:BypassUAC.dll 指令与输出文件名“Z:\项目\C\BypassUAC\x64\Release\BypassUAC_Dll.dll”不同；忽略指令
+  0 of 5 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  BypassUAC_Dll.vcxproj -> Z:\项目\C\BypassUAC\x64\Release\BypassUAC_Dll.dll
